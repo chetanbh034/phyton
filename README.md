@@ -1,0 +1,2 @@
+# phyton
+pratice on python
